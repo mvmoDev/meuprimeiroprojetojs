@@ -6,3 +6,5 @@ console.log(idade);
 console.log(idade+2);
 console.log(idade-2);
 console.log(idade/2);
+
+vendas = R$ 5000,00
